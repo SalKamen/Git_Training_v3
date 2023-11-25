@@ -1,1 +1,3 @@
 This is sample fie 1
+
+Git reset commit 2

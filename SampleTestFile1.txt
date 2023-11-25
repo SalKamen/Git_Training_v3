@@ -5,3 +5,4 @@ There are hundreds of other modules  available out of the box
 
 This is comparison lecture
 
+This is stash lecture, change in File 1
